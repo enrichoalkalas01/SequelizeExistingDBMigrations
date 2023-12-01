@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "1sampai10",
+    "database": "masterv4-local-test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": "5435"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "1sampai10",
+    "database": "masterv4-local-test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": "5435"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "1sampai10",
+    "database": "masterv4-local-test",
+    "host": "127.0.0.1",
+    "dialect": "postgresql",
+    "port": "5435"
+  }
+}
